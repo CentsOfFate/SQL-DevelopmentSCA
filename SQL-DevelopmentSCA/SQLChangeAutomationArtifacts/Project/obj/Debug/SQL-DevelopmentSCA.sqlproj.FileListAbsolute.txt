@@ -1,0 +1,16 @@
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\SQL-DevelopmentSCA_Package.sql
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\SQL-DevelopmentSCA_DeployPackage.ps1
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\SQL-DevelopmentSCA.dll
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\SQL-DevelopmentSCA.pdb
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\mscorlib.dll
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\normidna.nlp
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\normnfc.nlp
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\normnfd.nlp
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\normnfkc.nlp
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\bin\Debug\normnfkd.nlp
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\obj\Debug\SQL-DevelopmentSCA.sqlprojResolveAssemblyReference.cache
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\obj\Debug\SQL-DevelopmentSCA_Provisioning.sql
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\obj\Debug\SQL-DevelopmentSCA_Package.sql
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\obj\Debug\SQL-DevelopmentSCA.dll
+C:\Users\charl\Documents\SQLSCA\SQL-DevelopmentSCA\SQL-DevelopmentSCA\obj\Debug\SQL-DevelopmentSCA.pdb

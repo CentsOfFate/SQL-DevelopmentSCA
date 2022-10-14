@@ -177,6 +177,7 @@
     <None Include="Migrations\1.0.0-Baseline\001_20221014-1015_charl.sql" />
     <None Include="Schema-Model\dbo\Tables\Customer.sql" />
     <None Include="Migrations\1.1.0-Changes\readme.txt" />
+    <None Include="Migrations\1.1.0-Changes\001_20221014-1043_charl.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Pre-Deployment\01_Initialize_Deployment.sql" />
